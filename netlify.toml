@@ -1,0 +1,25 @@
+[build]
+  publish = "public"
+  command = "npm run build"
+[build.environment]
+  YARN_VERSION = "1.3.2"
+  YARN_FLAGS = "--no-ignore-optional"
+
+[[redirects]]
+  from = "/2015/07/23/visio-vs-lucidchart"
+  to = "/office/visio-vs-lucidchart"
+[[redirects]]
+  from = "/2015/05/27/periscope-essentials"
+  to = "/digital/periscope-essentials"
+[[redirects]]
+  from = "/2015/05/06/down-periscope"
+  to = "/digital/down-periscope"
+[[redirects]]
+  from = "/2014/09/29/viva-la-revolution/"
+  to = "/events/viva-la-revolution"
+[[redirects]]
+  from = "/2014/07/21/digital-fusion-takes-wales-at-tbowebdesign/"
+  to = "/events/tbowebdesign-in-wales"
+[[redirects]]
+  from = "/2014/06/29/digital-fusions-day-out-with-ted/"
+  to = "/events/my-day-out-with-ted"

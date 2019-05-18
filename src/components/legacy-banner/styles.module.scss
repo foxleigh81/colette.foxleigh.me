@@ -1,0 +1,11 @@
+.legacyBanner {
+  color: $text-ld;
+  background-color: $danger;
+  padding: $padding;
+  margin-bottom: $margin;
+  h1 {
+    font-size: $header-level-3;
+    font-weight: bold;
+    margin-bottom: $margin;
+  }
+}

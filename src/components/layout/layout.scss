@@ -1,0 +1,32 @@
+// Sensible defaults
+body {
+  font-family: 'Open Sans';
+  background-color: rgba(#333, .04);
+
+  p { 
+  font-size: $paragraph;
+  line-height: 1.7;
+}
+
+h1 { 
+  font-size: $header-level-1;
+  font-family: 'Maven Pro';
+  font-weight: 900
+}
+h2 { 
+  font-size: $header-level-2;
+  font-family: 'Maven Pro';
+  font-weight: 700;
+}
+h3 { 
+  font-size: $header-level-3;
+  font-family: 'Maven Pro';
+  font-weight: 500;
+}
+h4 { 
+  font-size: $header-level-4;
+  font-family: 'Maven Pro';
+  font-weight: 500;
+}
+}
+

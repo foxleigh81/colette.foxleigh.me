@@ -1,0 +1,47 @@
+Ben Dilts
+
+[24th July 2015 at 4:02 pm](https://colette.foxleigh.me/2015/07/23/visio-vs-lucidchart/#comment-8) [(Edit)](https://colette.foxleigh.me/wp-admin/comment.php?action=editcomment&c=8)
+
+Hi Colette! I’m the CTO and co-founder of Lucid. Thanks for the detailed write-up! I just wanted to weigh in with a few additional points.
+
+First, the reason I built Lucidchart was because I was utterly failing to collaborate with coworkers with Visio. Since launch, Lucidchart has allowed multiple people to work simultaneously on the same diagrams without worrying about conflicts. I was surprised to see a comparison of collaborative features missing from your post.
+
+Lucidchart doesn’t just work on Windows and Mac, it also works on ChromeOS, Linux, Android, iOS, Windows Phone, and just about everywhere else. Thanks for giving us points there!
+
+Regarding working offline, you should check out our Chrome app in the Chrome Web Store. It lets you keep a copy of all your diagrams offline, create and edit diagrams offline, and then automatically merge your changes in with anyone else’s when you reconnect to the Internet.
+
+Visio does fit in well with Microsoft Office, but don’t forget that Lucidchart integrates deeply with Google Apps and Google Drive, and has since the launch day of Google Drive. For many business, big and small, Google Apps is now just as much a part of their everyday work as Office.
+
+I’m glad you’re rooting for us! We are too :)
+
+---
+
+Colette Youde
+
+[25th July 2015 at 2:43 pm](https://colette.foxleigh.me/2015/07/23/visio-vs-lucidchart/#comment-9) [(Edit)](https://colette.foxleigh.me/wp-admin/comment.php?action=editcomment&c=9)
+
+Hi Ben
+
+Thanks for reading my article and for providing more information!
+
+I wanted this to be a simple article tackling the working niggles that no one really thinks about before purchasing software but that have an ongoing effect – rather than doing a “features led” in depth comparison as detailed reviews already exist online.
+
+Whilst I often found different people working on the same document causing conflicts to be an issue on the most popular offices packages (particularly Excel) I never really found conflicting versions to be an issue in Visio, as the cost of the license meant it was restricted to very few staff in the office.
+
+Also this article is targeted at those people who use Visio or Lucidchart for perhaps more basic functions, organisation diagrams, processes etc. Unfortunately these staff are often behind corporate firewalls and this would limit their ability to install a Chrome App – I have lived this frustration! However I have added this as a very useful note for those who work for more flexible organisations.
+
+I am happy to see Lucidchart come ever closer to overtaking Visio as the go-to diagramming software. As I mentioned and as demonstrated by your comments there is no comparison in the customer service relationship.
+
+[fixmyprocess](http://fixmyprocess.com/)
+
+[2nd June 2016 at 8:32 pm](https://colette.foxleigh.me/2015/07/23/visio-vs-lucidchart/#comment-11) [(Edit)](https://colette.foxleigh.me/wp-admin/comment.php?action=editcomment&c=11)
+
+I like the match-up concept of this post and want to chime in as someone who diagrams as an independent consultant on a full-time basis. I highly recommend checking out Lucidchart today as they have been rolling out some awesome new features and a brand new environment. I come across clients that use Visio and am constantly converting them over to Lucidchart for the collaborative features, lack of needing to install anything, visual appeal, and the ease of use. The market is going the way of web-based applications and this is trickling down to corporate environments at a fast pace. In my opinion, some of those obstacles you describe will eventually go away. I will never go back to Visio, there is just no need or desire, for me personally/professionally. I can always export to Visio in the event someone HAS to have it. The other diagramming apps out there don’t stand up to Lucidchart, either.
+
+---
+
+Marvin Android
+
+[19th January 2016 at 8:09 pm](https://colette.foxleigh.me/2015/07/23/visio-vs-lucidchart/#comment-10) [(Edit)](https://colette.foxleigh.me/wp-admin/comment.php?action=editcomment&c=10)
+
+Would like to see a version for Gliffy and/or draw.io.
