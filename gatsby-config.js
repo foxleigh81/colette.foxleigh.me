@@ -3,7 +3,7 @@ module.exports = {
     title: 'Colette Foxleigh',
     description: 'The blog of Colette Foxleigh',
     author: 'Colette Foxleigh',
-    siteUrl: 'http://colette.foxleigh.me',
+    siteUrl: 'https://colettefoxleigh.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -24,14 +24,15 @@ module.exports = {
         resources: [
           `${__dirname}/src/helpers/css/_reset.scss`,
           `${__dirname}/src/helpers/css/_variables.scss`,
+          `${__dirname}/src/helpers/css/_mixins.scss`,
         ],
       },
     },
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://foxleigh.me',
-        policy: [{ userAgent: '*', disallow: '/' }],
+        host: 'https://colettefoxleigh.com',
+        policy: [{ userAgent: '*', allow: '/' }],
       },
     },
     {
@@ -54,13 +55,13 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'colette-foxleigh-blog',
-        short_name: 'colblog',
+        name: 'alex-foxleigh-blog',
+        short_name: 'foxyblog',
         start_url: '/',
-        background_color: '#663399',
-        theme_color: '#663399',
+        background_color: '#e2641e',
+        theme_color: '#e2641e',
         display: 'minimal-ui',
-        // icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
     {

@@ -1,4 +1,4 @@
-# Colette Foxleigh's Blog
+# Alex Foxleigh's Blog Starter
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f029385c-a6de-41e7-bd68-839db1ceb8a5/deploy-status)](https://app.netlify.com/sites/thefoxleighblog/deploys)
 
